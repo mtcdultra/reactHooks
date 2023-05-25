@@ -1,4 +1,7 @@
 # HOOKS React study
+To run: 
+```npm run dev```
+
 
 | Hook | Description |
 | --- | --- |
@@ -10,5 +13,3 @@
 | `useMemo` | Memorize functions and components / improve performance |
 | `useRef` | alternative to useState or to interact with the DOM without re-rendering / improving performance |
 ---
-To run: 
-```npm run dev```
