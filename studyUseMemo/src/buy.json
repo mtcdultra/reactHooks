@@ -1,0 +1,17 @@
+{
+    "products": [
+        {
+            "name": "Cadeira"
+        },
+        {
+            "name": "Mesa"
+        },
+        {
+            "name": "Lâmpada"
+        },
+        {
+            "name": "Papel"
+        }
+
+    ]
+}
